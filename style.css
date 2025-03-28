@@ -1,0 +1,14 @@
+div { 
+    color: #ff6347 ;
+    text-align: center;
+}
+
+.alert-text{
+    color: magenta;
+    width: 200px ;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-color: Blue;
+  opacity: 0.5;
+} 
